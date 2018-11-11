@@ -1,0 +1,21 @@
+{
+  "name": "JGN",
+  "homepage": "https://github.com/Mikaelangelo112/jgn",
+  "authors": [
+    "mikaelangelo112 <mikaelangelo112@gmail.com>"
+  ],
+  "description": "joganizando",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
