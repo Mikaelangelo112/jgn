@@ -1,9 +1,0 @@
-.classe {
-  font-size: 30px; }
-  .classe .filho {
-    float: left; }
-    .classe .filho .body {
-      background-color: #000; }
-    .classe .filho .img {
-      color: #fff;
-      background-color: #222; }

@@ -5,7 +5,7 @@ var watch = require('gulp-css-scss');
 //task para o sass
 gulp.task('sass',function(){
 	  return sass('./sass/**/*.sass')
-	
+	  .pipe(sass().on('error', sass.logError))
 	.pipe(gulp.dest('./CSS'));
 
 });
