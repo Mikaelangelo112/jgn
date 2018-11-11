@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/Mikaelangelo112/jgn#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  },
+  "dependencies": {
+    "gulp-css-scss": "^0.1.0"
   }
 }
